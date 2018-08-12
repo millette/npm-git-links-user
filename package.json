@@ -1,0 +1,10 @@
+{
+  "name": "npm-git-links-user",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "AGPL-3.0",
+  "repository": "millette/npm-git-links-user",
+  "dependencies": {
+    "npm-git-links": "^0.0.1"
+  }
+}
