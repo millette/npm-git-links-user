@@ -3,13 +3,13 @@
 // npm
 const { ret, Doit } = require('npm-git-links')
 
-console.log('RET:', ret)
+console.log('DEV:', ret.dev)
 
 const x = new Doit(ret.repository, ret.headHash)
-console.log(x.browse)
+console.log('headHash:', x.browse)
 
 x.clearVersion()
-console.log(x.browse)
+console.log('default:', x.browse)
 
 x.version = ret.versionHash
-console.log(x.browse)
+console.log('versionHash:', x.browse)
