@@ -11,3 +11,5 @@ console.log(x.browse)
 x.clearVersion()
 console.log(x.browse)
 
+x.version = ret.versionHash
+console.log(x.browse)
