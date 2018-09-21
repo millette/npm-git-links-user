@@ -6,8 +6,8 @@ hosted-git-info@^2.7.1:
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
 
-npm-git-links@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/npm-git-links/-/npm-git-links-0.0.1.tgz#abfdf7730a12345e12994fd95ab1c520a22f2067"
+npm-git-links@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/npm-git-links/-/npm-git-links-0.0.3.tgz#ddb458d589ef1bc710c10cea37e3dbf77d844064"
   dependencies:
     hosted-git-info "^2.7.1"
