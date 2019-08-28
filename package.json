@@ -5,6 +5,6 @@
   "license": "AGPL-3.0",
   "repository": "millette/npm-git-links-user",
   "dependencies": {
-    "npm-git-links": "^1.0.0"
+    "npm-git-links": "^1.0.1"
   }
 }
